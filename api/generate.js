@@ -13,7 +13,8 @@ export default async function handler(req, res) {
 
   // Handle preflight OPTIONS request
   if (req.method === 'OPTIONS') {
-    return res.status(200).end();
+    res.status(200).send();
+    return;
   }
 
   // Handle only POST requests for the actual AI call
