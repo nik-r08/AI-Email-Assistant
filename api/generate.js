@@ -1,4 +1,10 @@
+// generate.js
 import OpenAI from 'openai';
+
+// Verify API key exists
+if (!process.env.OPENAI_API_KEY) {
+  console.error('OPENAI_API_KEY is not set in environment variables');
+}
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
