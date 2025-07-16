@@ -20,7 +20,7 @@ AI Email Assistant is a comprehensive email management solution that leverages O
 </td>
 <tr>
 <td width="50%">
-
+  
 ### 🚀 **Modern Experience**
 - 🌐 **Browser Extension** - Seamless integration with your favorite email clients
 - 💻 **Modern UI/UX** - Clean, intuitive interface with responsive design
@@ -68,7 +68,7 @@ AI Email Assistant is a comprehensive email management solution that leverages O
 
 </div>
 
-<div>
+
 | Component | Technology | Purpose |
 |-----------|------------|---------|
 | **Frontend** | HTML5, CSS3, JavaScript (ES6+) | User interface and interaction |
@@ -78,5 +78,5 @@ AI Email Assistant is a comprehensive email management solution that leverages O
 | **Deployment** | Vercel | Cloud hosting and deployment |
 | **Version Control** | Git/GitHub | Code management and collaboration |
 
-</div>
+
 
