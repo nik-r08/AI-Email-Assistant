@@ -5,7 +5,7 @@
 
 ## 🎯 **What Makes This Special?**
 
-AI Email Assistant is a comprehensive email management solution that leverages OpenAI's powerful language models to enhance productivity[1]. Built with modern UI focus and advanced AI features, this tool transforms how you handle email communication[2].
+AI Email Assistant is a comprehensive email management solution that leverages OpenAI's powerful language models to enhance productivity. Built with modern UI focus and advanced AI features, this tool transforms how you handle email communication.
 
 <table>
 <tr>
